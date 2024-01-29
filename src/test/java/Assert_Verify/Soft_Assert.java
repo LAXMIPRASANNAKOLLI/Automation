@@ -17,6 +17,7 @@ public class Soft_Assert {
 	@Test
 	public void Sample2() {
 		Reporter.log("Hello",true);
+		System.out.println("It is my First Updation From GitHub");
 	}
 
 }
